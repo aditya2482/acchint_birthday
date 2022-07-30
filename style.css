@@ -19,8 +19,8 @@ main > button {
   position: absolute;
   width:10em;
   height: 5em;
-  margin-top: 80em;
-  margin-left: 66em;
+  margin-top: 76em;
+  margin-left: 75em;
 }
 canvas{
     display:block;
