@@ -10,7 +10,7 @@ main > video {
   position: absolute;
   display: flex;
   justify-content: center;
-  margin-top: 12%;
+  margin-top: 10%;
   margin-left: 10%;
 
 }
@@ -20,7 +20,7 @@ main > button {
   width:10em;
   height: 5em;
   margin-top: 76em;
-  margin-left: 75em;
+  margin-left: 84em;
 }
 canvas{
     display:block;
